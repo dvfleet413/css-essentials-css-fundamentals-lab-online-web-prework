@@ -7,3 +7,7 @@ body {
 h1, nav {
   text-align: center;
 }
+
+img {
+  margin: auto;
+}
