@@ -9,5 +9,6 @@ h1, nav {
 }
 
 img {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
